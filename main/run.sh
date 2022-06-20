@@ -1,0 +1,1 @@
+fontforge -script crfontff.py
