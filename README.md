@@ -8,10 +8,15 @@ IPAmjMincho to Classic IPAmj明朝體傳承化方案 IPAmj明朝体传承化方�
 * 版本01. 参考新细明体。
 * 版本02. 传承旧字综合。
 * 版本03. 参考康熙字典。
-## 版本对比
+## 预览
+* 版本对比  
 ![image](./pic/Pic01.jpg)  
 ![image](./pic/Pic02.jpg)  
 ![image](./pic/Pic03.jpg)  
+* 部分缺失的简化字以繁体字补全  
+![image](./pic/PicS.png)  
+* 保留原版变体选择器  
+![image](./pic/PicV.png)  
 ## 下载字体
 可从 [Releases](https://github.com/GuiWonder/IPAmjMinchoClassic/releases) 页面下载字体。
 ## 参考资源
