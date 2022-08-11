@@ -1,5 +1,6 @@
 # IPAmj明朝體傳承化方案
 IPAmjMincho to Classic IPAmj明朝體傳承化方案 IPAmj明朝体传承化方案。
+使用本工具制作了[华英明朝](https://github.com/GuiWonder/HuayingMincho)字体。
 ## 适用范围
 本项目适用于[IPAmj明朝](https://moji.or.jp/mojikiban/font/)以及符合[IVD_Charts_Moji_Joho.pdf(2017)](https://unicode.org/ivd/data/2017-12-12/IVD_Charts_Moji_Joho.pdf)标准的字体。
 ## 使用方法
@@ -18,7 +19,8 @@ IPAmjMincho to Classic IPAmj明朝體傳承化方案 IPAmj明朝体传承化方�
 * 保留原版变体选择器  
 ![image](./pic/PicVr.png)  
 ## 下载字体
-可从 [Releases](https://github.com/GuiWonder/IPAmjMinchoClassic/releases) 页面下载字体。
+- 1. 推荐下载由本工具制作的[华英明朝](https://github.com/GuiWonder/HuayingMincho/releases)字体。
+- 2. 可从本项目 [Releases](https://github.com/GuiWonder/IPAmjMinchoClassic/releases) 页面下载测试字体。
 ## 参考资源
 * [IPAmj明朝](https://moji.or.jp/mojikiban/font/)
 * [IVD 2017-12-12 Moji_Joho](https://unicode.org/ivd/data/2017-12-12/IVD_Charts_Moji_Joho.pdf)
